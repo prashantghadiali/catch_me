@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(142, 234, 183);
+}
+#box{
+    height: 40px;
+    width: 60px;
+    color: aliceblue;
+    background: linear-gradient(117deg, #00659D 3.86%, #1A343F 96.85%);
+    text-align: center ;
+}
